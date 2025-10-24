@@ -1,0 +1,7 @@
+@import url(normalize.css);
+@import url(reset.css);
+
+body{
+    height: 100dvh;
+    background-color: black;
+}
